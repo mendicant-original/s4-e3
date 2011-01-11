@@ -1,0 +1,49 @@
+-- RMU SESSION 4 EXERCISE 3
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+In this exercise, we'll be exploring object oriented design principles, taking a
+look at SOLID in particular. Our goal is to create realistic examples of 
+these high level concepts in action.
+
+== GUIDELINES
+
+- Start by watching the following talk from Sandi Metz. It's recommended to
+  watch the whole thing.
+
+  http://confreaks.net/videos/240-goruco2009-solid-object-oriented-design
+
+- For each of the following principles, create an example that clearly
+  demonstrates the core ideas behind the principle:
+
+  * Single responsibility principle
+  * Open/closed principle
+  * Liskov substitution principle
+  * Interface segregation principle
+  * Dependency inversion principle
+ 
+- Also, choose three of the above principles and create a counterexample 
+  for each.
+
+- Try to pick good examples that look like they could be from real code, and
+  avoid duplication of other student's work by describing your scenarios as you
+  work on them.
+
+- You can make all of your examples follow a common theme if you'd like, but
+  each example must be a bit of code you can actually execute which focuses on
+  exactly one principle or a counter example of that principle.  This means you
+  need to create a total of 8 different examples, not just one big one that
+  covers all of the requirements.
+
+- Feel free to use real code from an existing project (your own, another
+  student's, or an open source project) to form your examples if you'd like.
+  But make sure that you clean things up enough so it's clear what principle
+  you're trying to demonstrate.
+
+- Finally, do not re-use the examples from Sandi's talk.
+
+== QUESTIONS?
+
+Hit up the mailing list or IRC. RMU exercises are left deliberately open ended,
+and often benefit from some discussion before, during, and after you work on
+them.
